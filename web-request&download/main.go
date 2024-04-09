@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-    url := "https://www.gatesnotes.com/"
+    url := "https://seanobrien.com.au/"
 
     // Send a GET request to the specified URL
     resp, err := http.Get(url)
